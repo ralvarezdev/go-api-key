@@ -1,4 +1,4 @@
-package go_api_key
+package goapikey
 
 type (
 	// BasicService is the basic service interface for API key validation

@@ -1,4 +1,4 @@
-package go_api_key
+package goapikey
 
 import (
 	"errors"
